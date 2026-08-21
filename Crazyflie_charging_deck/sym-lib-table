@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "crazyflie_charging_deck") (type "KiCad") (uri "${KIPRJMOD}/libs/symbols/crazyflie_charging_deck.kicad_sym") (options "") (descr ""))
+)

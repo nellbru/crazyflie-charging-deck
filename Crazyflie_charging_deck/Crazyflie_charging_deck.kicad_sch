@@ -2,8 +2,14 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid 15a5c6cf-6438-4e62-b4fa-e170b4788cf0)
+	(uuid "15a5c6cf-6438-4e62-b4fa-e170b4788cf0")
 	(paper "A4")
+	(title_block
+		(title "Crazyflie charging deck")
+		(date "2026-08-19")
+		(rev "A")
+		(company "University of Luxembourg - SnT")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
