@@ -1,8 +1,26 @@
+# KiCad
 *-bak
 *.bck
 *.log
 *.kicad_pcb-bak
 *.kicad_sch-bak
+*.kicad_pro-bak
+*.bak
+*.kicad_prl
+*-backups/
+*.lck
 _autosave-*
-fp-info-cache.history/
+fp-info-cache
+.history/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+cache/
+
+# Misc
+~$*
 .DS_Store
+.vscode
