@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "crazyflie_charging_deck") (type "KiCad") (uri "${KIPRJMOD}/libs/crazyflie_charging_deck.pretty") (options "") (descr ""))
+)
